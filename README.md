@@ -41,6 +41,6 @@ $ npm run dev
 
 ---
 
-## Contributers
+## Contributors
 
 - [@RyanDsilva](https://github.com/RyanDsilva)
